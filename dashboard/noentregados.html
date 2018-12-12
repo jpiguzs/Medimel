@@ -71,26 +71,7 @@
    <div style="height: 100vh">
   <div>
     <br><br><br><br><br>
-            <div class="container"> 
-        <div class="row">
-            <div class="col-4"></div>
-                <div class="col-4"> 
-                    <div class="text-center border border-light p-5"  style="background:#fff" >
-
-                        <p class="h4 mb-4">Entregar</p>
-
-        <!-- Password -->
-                            <input type="text"  class="form-control mb-4" placeholder="rut" id="rut">
-
-        
-
-        <!-- Sign in button -->
-                        <button class="btn blue-gradient btn-block my-4 btn-rounded" style="border-radius: 10em;" id="guardar">Guardar</button>
-
-                    </div>
-                </div>
-            </div>
-        </div>  
+           
     </div>
              <div id="app">
 
@@ -100,16 +81,19 @@
                       <th>Numero</th>
                       <th scope="col">Nombre</th>
                       <th scope="col">Rut</th>
-                      <th>Eliminar</th>
+                      
                     </tr>
                   </thead>
                   <tbody v-if="empleados.length > 0" >
                     <tr v-for="(empleado, index) in empleados" v-show="(pag - 1) * NUM_RESULTS <= index  && pag * NUM_RESULTS > index" >
-                      
-                      <td>{{empleados.length - index}}</td>
-                      <td>{{ empleado.nombre }}</td>
-                      <td>{{ empleado.rut }}</td>
-                      <th><a href="#" @click.prevent="eliminar(empleado.rut)"><i class="fas fa-trash-alt"></i></a></th>
+
+
+                    	<div >
+                      <td v-if="mostrar(empleado.Rut)">{{empleados.length - index}}</td>
+                      <td v-if="mostrar(empleado.Rut)">{{ empleado.Nombre }}</td>
+                      <td v-if="mostrar(empleado.Rut)">{{ empleado.Rut }}</td>
+                      </div>
+                      </th>
                     </tr>
                     
                   </tbody>
@@ -258,18 +242,24 @@ function eliminar(rut) {
       var data1 = [];
       var datareverse = [];
       var array = [];
-        firebase.database().ref('/entregas').orderByChild('rut').on('value', function(data) {
+      var array_entregas = [];
+      firebase.database().ref('/entregas').orderByChild('rut').on('value', function(data) {
             if (data.val()) 
             {
                 data1= data.val();
-                app.empleados = [];
-                array =[];
+                app.empleados = trabajadores;
+                //console.log(app.empleados);
+                //array =[];
+                console.log(app.empleados.length);
+                
                 datareverse =Object.keys(data1).reverse();
                 for (var i = 0; i < datareverse.length; i++) {
-                  array.push(data1[datareverse[i]]);
+
+                  array_entregas.push(data1[datareverse[i]]);
                 }
+                app.entregas = array_entregas;
                 //console.log(Object.keys(app.empleados));
-                app.empleados = array;
+                //app.empleados = array;
                 //console.log(app.empleados.length);
                 //console.log(app.empleados);
             }else
@@ -329,6 +319,7 @@ function eliminar(rut) {
     pag: 1, 
 
     empleados:[],
+    entregas:[],
     nombre:"",
     
 
@@ -341,6 +332,21 @@ function eliminar(rut) {
     getempleado: function () {
     
       
+      
+    },
+
+    mostrar: function (rut) {
+    var mostrar = true;
+        for (var i = 0; i < this.entregas.length; i++) {
+            if (this.entregas[i].rut===rut) 
+                {
+                    //return true;
+                    //console.log(i);
+                    mostrar = false;
+                    break;
+                } 
+        }
+     return mostrar;
       
     },
     eliminar: function (rut)
