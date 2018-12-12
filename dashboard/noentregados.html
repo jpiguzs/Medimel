@@ -247,17 +247,19 @@ function eliminar(rut) {
             if (data.val()) 
             {
                 data1= data.val();
-                app.empleados = trabajadores;
+                //app.empleados = trabajadores;
                 //console.log(app.empleados);
                 //array =[];
-                console.log(app.empleados.length);
-                
+                //console.log(app.empleados.length);
+                array_entregas =[];
                 datareverse =Object.keys(data1).reverse();
                 for (var i = 0; i < datareverse.length; i++) {
 
                   array_entregas.push(data1[datareverse[i]]);
                 }
+                app.entregas =[];
                 app.entregas = array_entregas;
+                app.getempleado(trabajadores);
                 //console.log(Object.keys(app.empleados));
                 //app.empleados = array;
                 //console.log(app.empleados.length);
@@ -326,12 +328,12 @@ function eliminar(rut) {
   },created: function () {
     // `this` points to the vm instance
     //console.log('hola');
-    this.getempleado();
+    //this.getempleado();
   },
   methods: {
-    getempleado: function () {
-    
-      
+    getempleado: function (array) {
+    this.empleados = [];
+     this.empleados = array;
       
     },
 

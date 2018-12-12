@@ -346,7 +346,7 @@ function eliminar(rut) {
     eliminar: function (rut)
     {
         console.log(rut);
-        alertify.confirm("Seguro que desea eliminar este registro?",
+        alertify.confirm("Eliminar","Seguro que desea eliminar este registro?",
   function(){
     var ref2 = firebase.database().ref('entregas');
             var consulta2 =null;
