@@ -47,7 +47,7 @@
         <div class="sidebar-fixed position-fixed">
 
             <a class="logo-wrapper waves-effect">
-                <img src="https://mdbootstrap.com/img/logo/mdb-email.png" class="img-fluid" alt="">
+                <img src="img/logo.jpg" class="img-fluid" style="width: 250px; height: 350px;" alt="">
             </a>
 
             <div class="list-group list-group-flush">
@@ -100,7 +100,8 @@
                       <th>Numero</th>
                       <th scope="col">Nombre</th>
                       <th scope="col">Rut</th>
-                      <th>Eliminar</th>
+                      <th scope="col" >Fecha y Hora de entrega</th>
+                      <th v-if="id_admin=='NHDf09lZRgdZNivyJZDNGaojj432'">Eliminar</th>
                     </tr>
                   </thead>
                   <tbody v-if="empleados.length > 0" >
@@ -109,7 +110,8 @@
                       <td>{{empleados.length - index}}</td>
                       <td>{{ empleado.nombre }}</td>
                       <td>{{ empleado.rut }}</td>
-                      <th><a href="#" @click.prevent="eliminar(empleado.rut)"><i class="fas fa-trash-alt"></i></a></th>
+                      <td>{{ empleado.fecha }}</td>
+                      <th v-if="id_admin=='NHDf09lZRgdZNivyJZDNGaojj432'"><a href="#" @click.prevent="eliminar(empleado.rut)"><i class="fas fa-trash-alt"></i></a></th>
                     </tr>
                     
                   </tbody>
@@ -198,6 +200,7 @@ function eliminar(rut) {
                 entregas.push({
                 rut: rut,
                 nombre: nombre,
+                fecha: new Date().toLocaleString(),
                 //profile_picture : imageUrl
                 });  
                 alertify.success('Guardado Con Exito!!');
@@ -264,6 +267,7 @@ function eliminar(rut) {
                 data1= data.val();
                 app.empleados = [];
                 array =[];
+                console.log(app.id_admin);
                 datareverse =Object.keys(data1).reverse();
                 for (var i = 0; i < datareverse.length; i++) {
                   array.push(data1[datareverse[i]]);
@@ -330,11 +334,13 @@ function eliminar(rut) {
 
     empleados:[],
     nombre:"",
+    id_admin : "",
     
 
   },created: function () {
     // `this` points to the vm instance
     //console.log('hola');
+    console.log(this.id_admin);
     this.getempleado();
   },
   methods: {
@@ -368,5 +374,9 @@ function eliminar(rut) {
   }
 })
 </script>
-
+<style type="text/css">
+  .sidebar-fixed .logo-wrapper img {
+    max-height: 150px !important;
+}
+</style>
 </html>

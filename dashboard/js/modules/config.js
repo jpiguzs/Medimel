@@ -12,7 +12,9 @@
  firebase.initializeApp(config);
   firebase.auth().onAuthStateChanged(function(user) {
   if (user) {
+    console.log(user.uid);
     console.log('entre');
+    app.id_admin = user.uid;
    // window.location="dashboard";
 
   } else {
