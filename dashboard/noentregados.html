@@ -269,6 +269,7 @@ function eliminar(rut) {
                 //app.empleados= data.val();
                 console.log("no hay nada");
                 app.empleados =[];
+                app.getempleado(trabajadores);
             }
      
      
@@ -339,7 +340,9 @@ function eliminar(rut) {
 
     mostrar: function (rut) {
     var mostrar = true;
-        for (var i = 0; i < this.entregas.length; i++) {
+    if (this.entregas.length > 0) 
+    {
+      for (var i = 0; i < this.entregas.length; i++) {
             if (this.entregas[i].rut===rut) 
                 {
                     //return true;
@@ -348,6 +351,8 @@ function eliminar(rut) {
                     break;
                 } 
         }
+    }
+        
      return mostrar;
       
     },
