@@ -1,4 +1,4 @@
-trabajadores =[
+trabajadores = [
  {
    "Rut": "05915354-4",
    "Nombre": "Ernesto Orlando Pizarro Rojas"
@@ -222,10 +222,6 @@ trabajadores =[
  {
    "Rut": "07590506-8",
    "Nombre": "Francisco Javier Manriquez Fernandez"
- },
- {
-   "Rut": "07592857-2",
-   "Nombre": "Americo Antonio Olivares Rosas"
  },
  {
    "Rut": "07604381-7",
@@ -1586,10 +1582,6 @@ trabajadores =[
  {
    "Rut": "09532931-4",
    "Nombre": "Elmor Raul Alvarez Campillay"
- },
- {
-   "Rut": "09534668-5",
-   "Nombre": "Gustavo Antonio Gomez Jeraldo"
  },
  {
    "Rut": "09536851-4",
@@ -5348,10 +5340,6 @@ trabajadores =[
    "Nombre": "Raul Alejandro Gonzalez Hernandez"
  },
  {
-   "Rut": "12866996-5",
-   "Nombre": "Marco Antonio Rodriguez Rodriguez"
- },
- {
    "Rut": "12873830-4",
    "Nombre": "Alfredo Gonzalo Vargas Ceballos"
  },
@@ -6690,10 +6678,6 @@ trabajadores =[
  {
    "Rut": "13871199-4",
    "Nombre": "Irene Nevenka Vergara Leiva"
- },
- {
-   "Rut": "13871367-9",
-   "Nombre": "Enrique Mauricio Montenegro Fernandois"
  },
  {
    "Rut": "13871917-0",
@@ -9874,5 +9858,25 @@ trabajadores =[
  {
    "Rut": "18234237-8",
    "Nombre": "Kevin Ponce Olivares"
+ },
+ {
+   "Rut": "13237854-1",
+   "Nombre": "Maria Jose San Martin Peña"
+ },
+ {
+   "Rut": "17016868-2",
+   "Nombre": "Tamara Andrea Orrego Diaz"
+ },
+ {
+   "Rut": "13184511-1",
+   "Nombre": "Ana Maria Villarroel Ramirez"
+ },
+ {
+   "Rut": "16081751-8",
+   "Nombre": "Marta Hidalgo Tapia"
+ },
+ {
+   "Rut": "15022775-5",
+   "Nombre": "Carolina Maya Diaz"
  }
 ];
