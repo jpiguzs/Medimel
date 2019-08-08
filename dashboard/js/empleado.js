@@ -9414,6 +9414,38 @@ trabajadores = [
   {
     "Rut": "25650306-9",
     "Nombre": "HECTOR ENRIQUE BLANCO MELO"
+  },
+  {
+    "Rut": "17435398-0",
+    "Nombre": "Sebastian Andres Quinan Quinan"
+  },
+  {
+    "Rut": "16411315-9",
+    "Nombre": "Dario Hernán Vilches Toledo"
+  },
+  {
+    "Rut": "12068979-7",
+    "Nombre": "Erica Vergara Muñoz"
+  },
+  {
+    "Rut": "13219428-9",
+    "Nombre": "Margarita Bolados Muñoz"
+  },
+  {
+    "Rut": "16593289-7",
+    "Nombre": "Daniela Edith Diaz Alfaro"
+  },
+  {
+    "Rut": "17749827-0",
+    "Nombre": "Jocelyn Salinas Muñoz"
+  },
+  {
+    "Rut": "17174131-9",
+    "Nombre": "Daniela Mercado Salfate"
+  },
+  {
+    "Rut": "19099712-k",
+    "Nombre": "Susana Videla Arancibia"
   }
  ];
  
