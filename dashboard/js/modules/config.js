@@ -11,7 +11,7 @@
   };
   console.log("hola");
  firebase.initializeApp(config);
-  /*firebase.auth().onAuthStateChanged(function(user) {
+  firebase.auth().onAuthStateChanged(function(user) {
   if (user) {
     console.log(user.uid);
     console.log('entre');
@@ -26,7 +26,7 @@
   //hola ="hola";
 
 
-});*/
+});
    // body...
  }// Initialize Firebase
  function cerrar() {
