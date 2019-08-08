@@ -15,7 +15,7 @@
   if (user) {
     console.log(user.uid);
     console.log('entre');
-    //app.id_admin = user.uid;
+    app.id_admin = user.uid;
    // window.location="dashboard";
 
   } else {
