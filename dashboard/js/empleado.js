@@ -7604,8 +7604,8 @@ trabajadores = [
     "Nombre": "JONATHAN VASQUEZ MARZAN"
   },
   {
-    "Rut": "15692284-6",
-    "Nombre": "JONATHAN BROCHET HOJAS"
+    "Rut": "13624614-3",
+    "Nombre": "Pamela Edith Huenchumir Huenupil"
   },
   {
     "Rut": "15694609-5",
@@ -9416,38 +9416,7 @@ trabajadores = [
     "Nombre": "HECTOR ENRIQUE BLANCO MELO"
   },
   {
-    "Rut": "17435398-0",
-    "Nombre": "Sebastian Andres Quinan Quinan"
-  },
-  {
-    "Rut": "16411315-9",
-    "Nombre": "Dario Hernán Vilches Toledo"
-  },
-  {
-    "Rut": "12068979-7",
-    "Nombre": "Erica Vergara Muñoz"
-  },
-  {
-    "Rut": "13219428-9",
-    "Nombre": "Margarita Bolados Muñoz"
-  },
-  {
-    "Rut": "16593289-7",
-    "Nombre": "Daniela Edith Diaz Alfaro"
-  },
-  {
-    "Rut": "17749827-0",
-    "Nombre": "Jocelyn Salinas Muñoz"
-  },
-  {
-    "Rut": "17174131-9",
-    "Nombre": "Daniela Mercado Salfate"
-  },
-  {
-    "Rut": "19099712-k",
-    "Nombre": "Susana Videla Arancibia"
+    "Rut": "16436308-2",
+    "Nombre": "Pamela Lorena Carmona Godoy"
   }
  ];
- 
- 
- 
