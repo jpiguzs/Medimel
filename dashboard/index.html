@@ -86,7 +86,7 @@
 
         <!-- Sign in button -->
                         <button class="btn blue-gradient btn-block my-4 btn-rounded" style="border-radius: 10em;" id="guardar">Guardar</button>
-
+                        <button style ="display:none" class="btn blue-gradient btn-block my-4 btn-rounded" style="border-radius: 10em;" id="remover">remover</button>
                     </div>
                 </div>
             </div>
@@ -313,6 +313,11 @@ function eliminar(rut) {
             
 
          
+    });
+    $("#remover").click(function(){
+      ref = firebase.database().ref('empleado');
+      ref.remove();
+      alert("removiendo");
     });
     /*empleado.push({
     rut: "2",
