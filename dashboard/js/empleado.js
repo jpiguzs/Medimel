@@ -20,10 +20,6 @@ trabajadores = [
     "Nombre": "EMILIO CARVAJAL PEREZ"
   },
   {
-    "Rut": "6578011-9",
-    "Nombre": "HUGUEL OSSANDON HARRIS"
-  },
-  {
     "Rut": "6584292-0",
     "Nombre": "JUAN TORO ARREDONDO"
   },
@@ -54,10 +50,6 @@ trabajadores = [
   {
     "Rut": "6945124-1",
     "Nombre": "WILSON GONZALEZ RODRIGUEZ"
-  },
-  {
-    "Rut": "6950993-2",
-    "Nombre": "ANGEL PASTEN GONZALEZ"
   },
   {
     "Rut": "6992407-7",
@@ -140,10 +132,6 @@ trabajadores = [
     "Nombre": "JOSE SALAS CACERES"
   },
   {
-    "Rut": "7401982-K",
-    "Nombre": "CARLOS RAMIREZ CARVAJAL"
-  },
-  {
     "Rut": "7405393-9",
     "Nombre": "GUILLERMO MONTIEL RODRIGUEZ"
   },
@@ -168,10 +156,6 @@ trabajadores = [
     "Nombre": "GABRIEL CARVALLO CABRERA"
   },
   {
-    "Rut": "7520091-9",
-    "Nombre": "CARLOS DIAZ CORTES"
-  },
-  {
     "Rut": "7567087-7",
     "Nombre": "JULIO MOYA LUAN"
   },
@@ -190,10 +174,6 @@ trabajadores = [
   {
     "Rut": "7649409-6",
     "Nombre": "JOSE MARIN ACEITUNO CASTRO"
-  },
-  {
-    "Rut": "7654615-0",
-    "Nombre": "AUDALIO TORO ROJAS"
   },
   {
     "Rut": "7666369-6",
@@ -326,10 +306,6 @@ trabajadores = [
   {
     "Rut": "7998329-2",
     "Nombre": "DOMINGO SANDOVAL PEREZ"
-  },
-  {
-    "Rut": "7999850-8",
-    "Nombre": "FRANCISCO SANTIBAÑEZ AHUMADA"
   },
   {
     "Rut": "8012248-9",
@@ -580,10 +556,6 @@ trabajadores = [
     "Nombre": "JORGE VELASQUEZ CARVAJAL"
   },
   {
-    "Rut": "8585683-9",
-    "Nombre": "ONAL MALUENDA TELLO"
-  },
-  {
     "Rut": "8598064-5",
     "Nombre": "IVAN CARDENAS BENIZ"
   },
@@ -674,10 +646,6 @@ trabajadores = [
   {
     "Rut": "8655831-9",
     "Nombre": "ELVIS IRIARTE FERNANDEZ"
-  },
-  {
-    "Rut": "8675170-4",
-    "Nombre": "HERWIN BORQUEZ VARAS"
   },
   {
     "Rut": "8687113-0",
@@ -798,10 +766,6 @@ trabajadores = [
   {
     "Rut": "8814809-6",
     "Nombre": "LUIS VILLARROEL SEREY"
-  },
-  {
-    "Rut": "8819963-4",
-    "Nombre": "JUAN OLIVARES VILLABLANCA"
   },
   {
     "Rut": "8837711-7",
@@ -978,10 +942,6 @@ trabajadores = [
   {
     "Rut": "9060623-9",
     "Nombre": "WALDO CASTILLO BORQUEZ"
-  },
-  {
-    "Rut": "9060971-8",
-    "Nombre": "EDGARDO GUZMAN MARIN"
   },
   {
     "Rut": "9061221-2",
@@ -1170,10 +1130,6 @@ trabajadores = [
   {
     "Rut": "9261071-3",
     "Nombre": "ABEL ROMERO ALVEAL"
-  },
-  {
-    "Rut": "9261269-4",
-    "Nombre": "ALVARO LOPEZ GALLEGUILLOS"
   },
   {
     "Rut": "9272595-2",
@@ -2120,8 +2076,8 @@ trabajadores = [
     "Nombre": "JAIME PARRA GUZMAN"
   },
   {
-    "Rut": "10262372-K",
-    "Nombre": "BENIGNO GONZALEZ SERON"
+    "Rut": "12616934-5",
+    "Nombre": "JESSICA SOLANGE VILLANUEVA VERA"
   },
   {
     "Rut": "10278751-k",
@@ -2446,10 +2402,6 @@ trabajadores = [
   {
     "Rut": "10619738-5",
     "Nombre": "RAUL DIAZ ARAYA"
-  },
-  {
-    "Rut": "10620273-7",
-    "Nombre": "CARLOS HERRERA DE LA PARRA"
   },
   {
     "Rut": "10622352-1",
@@ -3484,8 +3436,8 @@ trabajadores = [
     "Nombre": "JANO MALUENDA MALUENDA"
   },
   {
-    "Rut": "11722238-1",
-    "Nombre": "ALEXIS MARTINEZ RODRIGUEZ"
+    "Rut": "11615101-4",
+    "Nombre": "KATHERINE MORALES ARAVENA"
   },
   {
     "Rut": "11722318-3",
@@ -4042,10 +3994,6 @@ trabajadores = [
   {
     "Rut": "12216253-2",
     "Nombre": "MARCELO AVALOS VASQUEZ"
-  },
-  {
-    "Rut": "12216271-0",
-    "Nombre": "ALEXIS CISTERNAS DIAZ"
   },
   {
     "Rut": "12216354-7",
@@ -5244,10 +5192,6 @@ trabajadores = [
     "Nombre": "MARIO CAQUE CISTERNAS"
   },
   {
-    "Rut": "13013800-4",
-    "Nombre": "OSCAR LAMAS MOYA"
-  },
-  {
     "Rut": "13013967-1",
     "Nombre": "CLAUDIO CONTRERAS AVILA"
   },
@@ -5270,10 +5214,6 @@ trabajadores = [
   {
     "Rut": "13044051-7",
     "Nombre": "MAXIMILIANO RODRIGO QUEZADA LÓPEZ"
-  },
-  {
-    "Rut": "13056399-6",
-    "Nombre": "FABIAN FASCE BEJARANO"
   },
   {
     "Rut": "13068187-5",
@@ -6050,10 +5990,6 @@ trabajadores = [
   {
     "Rut": "13642566-8",
     "Nombre": "HECTOR MUÑOZ VARAS"
-  },
-  {
-    "Rut": "13642681-8",
-    "Nombre": "LUIS CORTES GARCIA"
   },
   {
     "Rut": "13642715-6",
@@ -7602,10 +7538,6 @@ trabajadores = [
   {
     "Rut": "15691986-1",
     "Nombre": "JONATHAN VASQUEZ MARZAN"
-  },
-  {
-    "Rut": "15692284-6",
-    "Nombre": "JONATHAN BROCHET HOJAS"
   },
   {
     "Rut": "15694609-5",
@@ -9448,19 +9380,311 @@ trabajadores = [
     "Nombre": "Susana Videla Arancibia"
   },
   {
-    "Rut": "11615101-4",
-    "Nombre": "KATHERINE MORALES ARAVENA"
+    "Rut": "13624614-3",
+    "Nombre": "Pamela Edith Huenchumir Huenupil"
   },
   {
-    "Rut": "12616934-5",
-    "Nombre": "JESSICA SOLANGE VILLANUEVA VERA"
+    "Rut": "16706388-8",
+    "Nombre": "ANGELICA LUCIA OLIVARES MEDINA"
+  },
+  {
+    "Rut": "18822526-8",
+    "Nombre": "CAMILA YUBITZA MORGADO BARRAZA"
+  },
+  {
+    "Rut": "16559600-5",
+    "Nombre": "SUE-HELLEN ANGELICA PINTO BARRAZA"
+  },
+  {
+    "Rut": "17725409-6",
+    "Nombre": "MILENKA RUDOLFI RIVERA"
+  },
+  {
+    "Rut": "19712761-9",
+    "Nombre": "TAHIA MERCADO CORTES"
   },
   {
     "Rut": "16436308-2",
-    "Nombre": "PamelaLorena Carmona Godoy"
+    "Nombre": "PAMELA LORENA CARMONA GODOY"
   },
   {
-    "Rut": "13624614-3",
-    "Nombre": "PAMELA EDITH HUENCHUÑIR HUENUPIL"
+    "Rut": "13646485-k",
+    "Nombre": "Milssa Marisel Bustamante Stolzembach"
+  },
+  {
+    "Rut": "18654557-5",
+    "Nombre": "Ximena Ledezma Soto"
+  },
+  {
+    "Rut": "15564962-3",
+    "Nombre": "Jose Miguel Fernandez Chirino"
+  },
+  {
+    "Rut": "19206474-0",
+    "Nombre": "Claudia Alejandra Palluato Lozo"
+  },
+  {
+    "Rut": "19047590-5",
+    "Nombre": "Nelson Sepulveda Guerra"
+  },
+  {
+    "Rut": "17019115-3",
+    "Nombre": "Hector Fernando Oregon Gutierrez"
+  },
+  {
+    "Rut": "19098673-K",
+    "Nombre": "Teshia Meylen Miranda Arenas"
+  },
+  {
+    "Rut": "16399880-7",
+    "Nombre": "Juan Fernando Estay Lazo"
+  },
+  {
+    "Rut": "16132273-3",
+    "Nombre": "Rodrigo Alesandro Ramirez Torres"
+  },
+  {
+    "Rut": "12215070-4",
+    "Nombre": "Claudio Valdebenito Palma"
+  },
+  {
+    "Rut": "19444744-2",
+    "Nombre": "Cinthya Gonzalez Gancino"
+  },
+  {
+    "Rut": "19529869-6",
+    "Nombre": "Javiera Gonzalez Chimchilla"
+  },
+  {
+    "Rut": "19711550-5",
+    "Nombre": "Camila Caceres Molina"
+  },
+  {
+    "Rut": "16133710-2",
+    "Nombre": "Paulina Carlderon Delgado"
+  },
+  {
+    "Rut": "17437463-5",
+    "Nombre": "Fabiola Morales Valenzuela"
+  },
+  {
+    "Rut": "17655889-k",
+    "Nombre": "Yubisay Fuentes Flores"
+  },
+  {
+    "Rut": "16705461-7",
+    "Nombre": "Maribel Ivonne Rojas Badilla"
+  },
+  {
+    "Rut": "18825761-5",
+    "Nombre": "María Zepeda Zepeda"
+  },
+  {
+    "Rut": "19397535-6",
+    "Nombre": "Karla Araya Villalobos"
+  },
+  {
+    "Rut": "19396882-1",
+    "Nombre": "Nevenka Maya Rojas"
+  },
+  {
+    "Rut": "17735482-1",
+    "Nombre": "Camila Barrera Rocha"
+  },
+  {
+    "Rut": "18570582-k",
+    "Nombre": "Yessenia Pinto Ramon"
+  },
+  {
+    "Rut": "16439272-4",
+    "Nombre": "Bernardo Baltazar Galleguillos"
+  },
+  {
+    "Rut": "18346391-9",
+    "Nombre": "Valeria Allende Silva"
+  },
+  {
+    "Rut": "18791624-0",
+    "Nombre": "Renata Fernanda Osorio Aguirre"
+  },
+  {
+    "Rut": "15012802-1",
+    "Nombre": "Armando Olmedo Mancilla"
+  },
+  {
+    "Rut": "15013652-0",
+    "Nombre": "DAVID CRISTIAN BAUTISTA CORIN"
+  },
+  {
+    "Rut": "16687371-1",
+    "Nombre": "JAIME SEBASTIAN POBLETE GALLEGUILLOS"
+  },
+  {
+    "Rut": "16589439-1",
+    "Nombre": "ANGEL DANIEL ROMAN FARIAS"
+  },
+  {
+    "Rut": "12215885-3",
+    "Nombre": "CARLOS MARCOS CARVAJAL COO"
+  },
+  {
+    "Rut": "15154468-5",
+    "Nombre": "MIGUEL ARAYA VALENZUELA"
+  },
+  {
+    "Rut": "17392148-9",
+    "Nombre": "MILEN FERNANDA MODACA CORTEZ"
+  },
+  {
+    "Rut": "18306170-4",
+    "Nombre": "JESSICA CAROLLINE DIAZ DA SILVA"
+  },
+  {
+    "Rut": "19019422",
+    "Nombre": "CAMILA ALEJANDRA CATALAN TORRES"
+  },
+  {
+    "Rut": "19287251-0",
+    "Nombre": "CLAUDIA PATRICIA GARCIA POBLETE"
+  },
+  {
+    "Rut": "17937662-8",
+    "Nombre": "PAULINA HAMET QUISPE ROMERO"
+  },
+  {
+    "Rut": "17620319-6",
+    "Nombre": "DANIELA ANDREA ARREDONDO BARRAZA"
+  },
+  {
+    "Rut": "18002238-4",
+    "Nombre": "JOHANA NICOLE GUTIERREZ ROJAS"
+  },
+  {
+    "Rut": "16444137-7",
+    "Nombre": "LORENZO ORLANDO LARCO ROJAS"
+  },
+  {
+    "Rut": "15680867-9",
+    "Nombre": "CAROLINA ANDREA RAMOS RIVERA"
+  },
+  {
+    "Rut": "25220214-5",
+    "Nombre": "LINA GUERRA ECHEVERRI"
+  },
+  {
+    "Rut": "14120462-9",
+    "Nombre": "SOFIA PINO FUENTES"
+  },
+  {
+    "Rut": "12216311-3",
+    "Nombre": "MARJIC ACUÑA RIVERO"
+  },
+  {
+    "Rut": "16486839-7",
+    "Nombre": "PEDRO ANDRES NAVIA VERGARA"
+  },
+  {
+    "Rut": "13419133-3",
+    "Nombre": "HUGO ALBERTO TRIGO ROJAS"
+  },
+  {
+    "Rut": "18233872-9",
+    "Nombre": "FRANCO ESTEBAN ARAYA CASTILLO"
+  },
+  {
+    "Rut": "19693585-1",
+    "Nombre": "FRANHESCA NICOL LETELIER RODRIGUEZ"
+  },
+  {
+    "Rut": "19952660-K",
+    "Nombre": "KATLEEN KARINA PEREZ ACEVEDO"
+  },
+  {
+    "Rut": "16437753-9",
+    "Nombre": "MAIKEL FABIAN JORQUERA NAVEAS"
+  },
+  {
+    "Rut": "17502552-9",
+    "Nombre": "YONATHAN ULISES QUERO SEGOVIA"
+  },
+  {
+    "Rut": "15692284-6",
+    "Nombre": "JONATHAN BROCHET HOJAS"
+  },
+  {
+    "Rut": "19072121-3",
+    "Nombre": "GABRIELA CECILIA PAZ NEIRA DIAZ"
+  },
+  {
+    "Rut": "12572525",
+    "Nombre": "FRANCISCO JAVIER HENOTT GUERRERO"
+  },
+  {
+    "Rut": "17453096",
+    "Nombre": "FABIOLA PILAR HIDALGO HERRERA"
+  },
+  {
+    "Rut": "12020799",
+    "Nombre": "EDUARDO IVAN ARANCIBIA CUETO"
+  },
+  {
+    "Rut": "19537991-2",
+    "Nombre": "YERISEL CAROLAY FABIAN MONDACA"
+  },
+  {
+    "Rut": "17554160-8",
+    "Nombre": "MISAEL ALBERTO BELTRAN ESPEJO"
+  },
+  {
+    "Rut": "18506323-2",
+    "Nombre": "ELENA IRIS MUÑOZ GARGIULO"
+  },
+  {
+    "Rut": "16704545-6",
+    "Nombre": "KATHERINE ELIZABETH RAMIREZ ROZAS"
+  },
+  {
+    "Rut": "18507594-k",
+    "Nombre": "ESTEFANI CAROLINA SUAREZ SUAREZ"
+  },
+  {
+    "Rut": "12946033-4",
+    "Nombre": "MARIA INES GONZALEZ YAÑEZ"
+  },
+  {
+    "Rut": "18793250-5",
+    "Nombre": "ROCIO ESPERANZA MORA BARRERA"
+  },
+  {
+    "Rut": "16848629-4",
+    "Nombre": "JOHANNA MARGOT ARAYA ARAYA"
+  },
+  {
+    "Rut": "1911792-0",
+    "Nombre": "BLANCA TAPIA VERGARA"
+  },
+  {
+    "Rut": "18583482-4",
+    "Nombre": "Stephania Escobar Providel"
+  },
+  {
+    "Rut": "19177642-9",
+    "Nombre": "Gabriela Cruz Robles"
+  },
+  {
+    "Rut": "12921368-k",
+    "Nombre": "Magdalena Rodríguez Clavijo"
+  },
+  {
+    "Rut": "13868822-4",
+    "Nombre": "Rodrigo Alejandro Salgado Salgado"
+  },
+  {
+    "Rut": "15014838-3",
+    "Nombre": "Alfredo Andrés González López"
+  },
+  {
+    "Rut": "",
+    "Nombre": "Pía Carvajal Carvajal"
   }
- ];
+ ]
