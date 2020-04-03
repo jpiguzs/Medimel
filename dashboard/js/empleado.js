@@ -9540,7 +9540,7 @@ trabajadores = [
     "Nombre": "JESSICA CAROLLINE DIAZ DA SILVA"
   },
   {
-    "Rut": "19019422",
+    "Rut": "19019422-1",
     "Nombre": "CAMILA ALEJANDRA CATALAN TORRES"
   },
   {
@@ -9616,15 +9616,15 @@ trabajadores = [
     "Nombre": "GABRIELA CECILIA PAZ NEIRA DIAZ"
   },
   {
-    "Rut": "12572525",
+    "Rut": "12572525-2",
     "Nombre": "FRANCISCO JAVIER HENOTT GUERRERO"
   },
   {
-    "Rut": "17453096",
+    "Rut": "17453096-3",
     "Nombre": "FABIOLA PILAR HIDALGO HERRERA"
   },
   {
-    "Rut": "12020799",
+    "Rut": "12020799-7",
     "Nombre": "EDUARDO IVAN ARANCIBIA CUETO"
   },
   {
@@ -9660,31 +9660,31 @@ trabajadores = [
     "Nombre": "JOHANNA MARGOT ARAYA ARAYA"
   },
   {
-    "Rut": "1911792-0",
+    "Rut": "17205358-0",
     "Nombre": "BLANCA TAPIA VERGARA"
   },
   {
-    "Rut": "18583482-4",
+    "Rut": "19911792-0",
     "Nombre": "Stephania Escobar Providel"
   },
   {
-    "Rut": "19177642-9",
+    "Rut": "18583482-4",
     "Nombre": "Gabriela Cruz Robles"
   },
   {
-    "Rut": "12921368-k",
+    "Rut": "19177642-9",
     "Nombre": "Magdalena Rodríguez Clavijo"
   },
   {
-    "Rut": "13868822-4",
+    "Rut": "12921368-k",
     "Nombre": "Rodrigo Alejandro Salgado Salgado"
   },
   {
-    "Rut": "15014838-3",
+    "Rut": "13868822-4",
     "Nombre": "Alfredo Andrés González López"
   },
   {
-    "Rut": "",
+    "Rut": "15014838-3",
     "Nombre": "Pía Carvajal Carvajal"
   }
  ]
