@@ -101,7 +101,7 @@
                       <th scope="col">Nombre</th>
                       <th scope="col">Rut</th>
                       <th scope="col" >Fecha y Hora de entrega</th>
-                      <th v-if="id_admin=='mEgf0bo9f5WndjflNFHbA1VeXki1'">Eliminar</th>
+                      <th v-if="id_admin=='37M3iFvdrIbwcbDMGy9jJmSKrE02'">Eliminar</th>
                     </tr>
                   </thead>
                   <tbody v-if="empleados.length > 0" >
@@ -111,7 +111,7 @@
                       <td>{{ empleado.nombre }}</td>
                       <td>{{ empleado.rut }}</td>
                       <td>{{ empleado.fecha }}</td>
-                      <th v-if="id_admin=='mEgf0bo9f5WndjflNFHbA1VeXki1'"><a href="#" @click.prevent="eliminar(empleado.rut)"><i class="fas fa-trash-alt"></i></a></th>
+                      <th v-if="id_admin=='37M3iFvdrIbwcbDMGy9jJmSKrE02'"><a href="#" @click.prevent="eliminar(empleado.rut)"><i class="fas fa-trash-alt"></i></a></th>
                     </tr>
                     
                   </tbody>
